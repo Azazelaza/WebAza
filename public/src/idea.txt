@@ -1,0 +1,3 @@
+Entras a la pagina y es una galaxia completa se ve como te vas adentrando en ella, despues aparecen 4 planetas que son las paginas, posteriormente podras visualizar el nombre y se hara un pequeño zoom a ese planeta, cuando le des click se vera una nave espacial que va directo a ese planeta, posteriormente te mostrara un plano en el cual podras visualizar lo que es de esa pagina mediante huecos en el planeta
+
+Para el portafolio podras visualizar varios planetas los cuales cada uno sera un proyecto diferente podras desplazarte entre los diferentes planetas con el mouse 

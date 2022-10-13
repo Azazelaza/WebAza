@@ -1,0 +1,1 @@
+//Aqui va el planeta tiene que tener el parametro de img y el link que te va a enviar

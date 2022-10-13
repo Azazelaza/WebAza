@@ -1,0 +1,106 @@
+[
+    {
+        "nombre": "Vinos America",
+        "link": "vinosamerica.com.mx",
+        "link_alternativo": "vinosamerica.com",
+        "imagen": "img/vinos.png",
+        "descripcion": "Vinos america es una industria de vinos, la cual se organizo su desarrollo web tanto en eventos como en su pagina principal",
+        "tecnologias": "Wordpress/CSS/Bootstrap/HTML/Javascript"
+    },
+    {
+        "nombre":"Universidad Cuauhtemoc Plantel Guadalajara",
+        "link":"https://ucg.edu.mx",
+        "link_alternativo":"https://ucuauhtemoc.edu.mx",
+        "imagen":"",
+        "descripcion":"Se trabajo con universidad Cuauhtemoc sus paginas web y su sistema de gestion de personal tanto en plantel guadalajara como en plantel aguascalientes",
+        "tecnologias":"HTML/CSS/Javascript/Bootstrap/Sass/ReactJS/Laravel/PHP"
+    },
+    {
+        "nombre":"Feria Virtual UAG",
+        "link":"https://feriavirtual.uag.mx",
+        "link_alternativo":"",
+        "imagen":"",
+        "descripcion":"Se trabajo en la feria virtual de la UAG la cual tiene un crud junto con un backoffice",
+        "tecnologias":"Laravel/CSS/SASS/HTML/Blade/Schemantic"
+    },
+    {
+        "nombre":"Pan Bueno",
+        "link":"https://www.panbueno.mx",
+        "link_alternativo":"",
+        "imagen":"",
+        "descripcion":"Se trabajo bajo un esquema de maquetado para la pagina de presentacion de panbueno",
+        "tecnologias":"Wordpress/CSS"
+    },
+    {
+        "nombre":"Mentor DH",
+        "link":"mentordh.com",
+        "link_alternativo":"",
+        "imagen":"",
+        "descripcion":"Mentor es un portal para aprender mediante cursos, se hicieron varias implementaciones y cada video tiene su sistema de seguridad implementado",
+        "tecnologias":"SASS, CSS, Bootstrap, HTML, ReactJS, NodeJS"
+    },
+    {
+        "nombre":"Bankple",
+        "link":"",
+        "link_alternativo":"",
+        "imagen":"",
+        "descripcion":"Se trabajo parcialmente la aplicacion web y movil de bankple, la cual consistia en ser un banco el cual todo se manejara en linea",
+        "tecnologias":"Laravel/Java/CSS/Bootstrap/HTML"
+    },
+    {
+        "nombre":"Qinta Fabiana",
+        "link":"https://www.quintafabiana.com",
+        "link_alternativo":"",
+        "imagen":"",
+        "descripcion":"Qinta Fabiana es una pagina web de un hotel para hacer reservaciones mediante la misma, asi mismo revisar las diferentes habitaciones y cualidades que tiene el hotel",
+        "tecnologias":"SASS/ReactJS/HTML/NodeJS/ReactNative"
+    },
+    {
+        "nombre":"TEYEVO",
+        "link":"",
+        "link_alternativo":"",
+        "imagen":"",
+        "descripcion":"TEYEVO fue una aplicaion que era similar a la actual didi-envios y uber-flash",
+        "tecnologias":"Java/Kotlin/Swift"
+    },
+    {
+        "nombre":"Primadera",
+        "link":"https://primadera.com",
+        "link_alternativo":"",
+        "imagen":"",
+        "descripcion":"Se hizo un backoffice para sus diferentes sistemas de gestion y asi mismo un CRM",
+        "tecnologias":"Codeigniter/PHP/CSS/ReactNative/HTML"
+    },
+    {
+        "nombre":"Alle Nettoyage",
+        "link":"",
+        "link_alternativo":"",
+        "imagen":"",
+        "descripcion":"Se realizo el trabajo de las apis y su backoffice junto con parte de su version movil",
+        "tecnologias":"ReactNative/Codeigniter/CSS"
+    },
+    {
+        "nombre":"Happ",
+        "link":"",
+        "link_alternativo":"",
+        "imagen":"",
+        "descripcion":"Se formo parte de su equipo de trabajo para realizar las diferentes RESTAPI en la aplicacion que apuntaban hacia la aplicacion movil",
+        "tecnologias":"Codeigniter/PHP/ReactNative"
+    },
+    {
+        "nombre":"MarketPlace App",
+        "link":"",
+        "link_alternativo":"",
+        "imagen":"",
+        "descripcion":"Se realizo una aplicacion para conectar todas las tiendas conocidas mediante sus apis y concentrarlas en una sola API para dar de alta productos y servicios",
+        "tecnologias":"PHP,REST-API,SOAPUI"
+    },
+    {
+        "nombre":"Intranet (Universidad Cuauhtemoc)",
+        "link":"",
+        "link_alternativo":"",
+        "imagen":"",
+        "descripcion":"En esta intranet se utilizaban diferentes servicios para conectar la nomina, los empleados, horarios y calcularlos todos en un proceso pre-establecido asi mismo se manejaba todo el horario completo y check-in de los docentes que tenian clases",
+        "tecnologias":"ReactJS/Laravel/CSS/Javascript/Typescript"
+    }    
+]
